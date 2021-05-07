@@ -1,0 +1,14 @@
+Script started on 2021-05-06 21:39:10-04:00
+]0;kmcrae@br014:~/CISC372/CISC372_hw5/CISC372_hw5[kmcrae@r004 CISC372_hw5]$ ./image
+Usage: image <filename> <type>
+	where type is one of (edge,sharpen,blur,gauss,emboss,identity)
+]0;kmcrae@br014:~/CISC372/CISC372_hw5/CISC372_hw5[kmcrae@r004 CISC372_hw5]$ ./image pic1.jpg edge
+Took 8 seconds
+]0;kmcrae@br014:~/CISC372/CISC372_hw5/CISC372_hw5[kmcrae@r004 CISC372_hw5]$ ./img_pthe[Kreads.j[K[K[K pic1.jpg edge
+Segmentation fault (core dumped)
+]0;kmcrae@br014:~/CISC372/CISC372_hw5/CISC372_hw5[kmcrae@r004 CISC372_hw5]$ ./img_op[Kmp pic1.jpg edge
+Took 7 seconds
+]0;kmcrae@br014:~/CISC372/CISC372_hw5/CISC372_hw5[kmcrae@r004 CISC372_hw5]$ exit
+exit
+
+Script done on 2021-05-06 21:40:44-04:00
